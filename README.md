@@ -1,4 +1,3 @@
-cat > /home/nick/github-readme.md << 'EOF'
 <div align="center">
   
 # Nick Aldewereld
@@ -46,17 +45,7 @@ Met meer dan **25 jaar ervaring** in IT consultancy, online marketing en onderne
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickAldewereld&show_icons=true&theme=dark&bg_color=0b162f&title_color=b87333&text_color=f7f5f0&icon_color=b87333&border_color=3d5a6f)
-
-</div>
-
----
 
 ## 🤝 Contact
 
@@ -69,6 +58,3 @@ Met meer dan **25 jaar ervaring** in IT consultancy, online marketing en onderne
 *Complexe problemen, menselijke oplossingen*
 
 </div>
-EOF
-
-cat /home/nick/github-readme.md
