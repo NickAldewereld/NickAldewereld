@@ -2,8 +2,6 @@
   
 # Nick Aldewereld
 
-### Social Tech Entrepreneur
-
 *De balans tussen mens en technologie*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b162f?style=for-the-badge&logo=linkedin&logoColor=b87333)](https://linkedin.com/in/nickaldewereld)
