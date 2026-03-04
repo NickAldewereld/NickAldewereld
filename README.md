@@ -1,8 +1,7 @@
 <div align="center">
   
 # Nick Aldewereld
-
-*De balans tussen mens en technologie*
+*The balance between people and technology*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b162f?style=for-the-badge&logo=linkedin&logoColor=b87333)](https://linkedin.com/in/nickaldewereld)
 [![Website](https://img.shields.io/badge/Website-0b162f?style=for-the-badge&logo=safari&logoColor=b87333)](https://aldewereldconsultancy.nl)
@@ -11,20 +10,20 @@
 
 ---
 
-## 👋 Over mij
+## 👋 About Me
 
-Met meer dan **25 jaar ervaring** in IT consultancy, online marketing en ondernemerschap help ik bedrijven hun technologische potentieel te maximaliseren, terwijl de mens centraal blijft staan.
+With over **25 years of experience** in IT consultancy, online marketing, and entrepreneurship, I help organizations maximize their technological potential — while keeping people at the center of every solution.
 
-> "Technologie moet menselijke mogelijkheden versterken — simpelweg, het moet werken."
+> "Technology should amplify human capability — simply put, it needs to work."
 
 ---
 
-## 🚀 Huidige Projecten
+## 🚀 Current Projects
 
-| Project | Beschrijving |
+| Project | Description |
 |---------|-------------|
-| **SovereignAI Grid** | Soevereine AI-infrastructuur voor organisaties |
-| **Aldewereld Consultancy** | Tech consulting & digitale transformatie |
+| **SovereignAI Grid** | Sovereign AI infrastructure for organizations |
+| **Aldewereld Consultancy** | Tech consulting & digital transformation |
 | **EASEO** | SEO & Online Marketing |
 | **NIXPAY** | Payment Solutions |
 
@@ -43,7 +42,7 @@ Met meer dan **25 jaar ervaring** in IT consultancy, online marketing en onderne
 
 </div>
 
-
+---
 
 ## 🤝 Contact
 
@@ -53,6 +52,6 @@ Met meer dan **25 jaar ervaring** in IT consultancy, online marketing en onderne
 
 📧 [nick@aldewereldconsultancy.nl](mailto:nick@aldewereldconsultancy.nl)
 
-*Complexe problemen, menselijke oplossingen*
+*Complex problems, human solutions*
 
 </div>
